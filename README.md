@@ -1,1 +1,1 @@
-# profile-card
+# react-profile-card
